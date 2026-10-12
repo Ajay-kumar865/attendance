@@ -1,0 +1,17 @@
+streamlit
+# Utilities
+numpy
+pandas
+
+# FACE RECOGNITION
+scikit-learn
+dlib-bin
+setuptools<70.0.0
+
+supabase
+bcrypt
+
+segno
+pillow
+
+librosa
