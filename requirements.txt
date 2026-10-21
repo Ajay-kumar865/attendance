@@ -15,3 +15,4 @@ segno
 pillow
 
 librosa
+resemblyzer
